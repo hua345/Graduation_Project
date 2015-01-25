@@ -1,0 +1,14 @@
+#filter file
+
+*.xml
+*.txt
+*.suo
+*.filters
+*.config  
+*.sdf 
+
+  
+#filter folder
+Debug/
+Release/
+ipch/
